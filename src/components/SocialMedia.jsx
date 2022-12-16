@@ -5,7 +5,7 @@ import { FaGithub, FaLinkedin } from 'react-icons/fa';
 const SocialMedia = () => (
   <div className="app__social">
     <div>
-      <a href = "https://github.com/dikshant2142001" target="_blank" rel = "noopener noreferrer">
+      <a href = "https://github.com/Dcode2100" target="_blank" rel = "noopener noreferrer">
         <FaGithub />
         </a>
     </div>
